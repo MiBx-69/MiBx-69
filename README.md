@@ -1,66 +1,117 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,100:1A1A2E&height=210&section=header&text=Moinul%20Islam%20Bappi&fontSize=48&fontColor=00D9FF&animation=fadeIn&fontAlignY=36&desc=IT%20Executive%20%7C%20SEO%20Specialist%20%7C%20AI%20Automation%20Engineer&descAlignY=56&descSize=18" width="100%"/>
+# Moinul Islam Bappi
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Head+of+IT+%26+Online+Executive+%40+Universes;Founder+%40+MiBrand+Agency;SEO+%2B+Paid+Ads+%2B+AI+Automation;BDT+10%2B+Lakh%2Fmo+Revenue+on+%3C1+Lakh+Ad+Spend;Building+AI-driven+Digital+Ecosystems" alt="Typing SVG" />
+### IT Executive · SEO Specialist · AI Automation Engineer · E-commerce Operator
+
+<a href="https://moinulislam.pro">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/moinul-islam-bappi">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://wa.me/8801605956421">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+<a href="mailto:mib.bappi360@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Building+AI-powered+digital+systems;SEO+%2B+Paid+Ads+%2B+E-commerce;Automation+%2B+CRM+%2B+Business+Infrastructure;Turning+manual+operations+into+automated+workflows;Technology+that+actually+drives+business+results" />
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=moinulislam&label=Profile%20Views&color=00D9FF&style=for-the-badge)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://moinulislam.pro)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/moinul-islam-bappi)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801605956421)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mib.bappi360@gmail.com)
-[![CV](https://img.shields.io/badge/Download_CV-8B0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://www.moinulislam.pro/Moinul-Islam-Bappi-CV.pdf)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,100:111827&height=120&section=header" width="100%"/>
 
 </div>
 
 ---
 
-### 👋 About Me
+## 👋 About Me
+
+I'm **Moinul Islam Bappi**, an IT and digital growth professional focused on building technology systems that solve real business problems.
+
+My work sits at the intersection of:
+
+**Technology × Marketing × Automation × E-commerce**
+
+I work across the entire digital stack—from **SEO and paid advertising** to **Shopify operations, custom software, CRM systems, APIs, automation, infrastructure, and AI-powered workflows**.
+
+Currently, I work as **Head of IT & Online Executive at Universes**, while also building **MiBrand Agency** for international clients.
 
 ```yaml
 name: Moinul Islam Bappi
-location: Dhaka, Bangladesh
-current_role: Head of IT & Online Executive @ Universes (E-commerce)
-founder: MiBrand Agency — SEO, paid ads & automation for global clients
-experience: 5+ years | 100+ projects delivered | 85%+ client retention
-focus: [SEO, Local SEO/GMB, Meta/Google/TikTok Ads, Shopify, AI Automation, CRM, Cybersecurity]
-status: "Available for new projects & collaborations"
-fun_fact: "Pet budgie supervises every Meta Pixel debugging session 🦜"
+based_in: Dhaka, Bangladesh
+
+role:
+  - IT Executive
+  - SEO Specialist
+  - AI Automation Engineer
+  - E-commerce Operator
+
+business:
+  company: MiBrand Agency
+  focus: SEO, Paid Ads, Automation & Digital Systems
+
+core_focus:
+  - AI Automation
+  - SEO & Local SEO
+  - Meta / Google / TikTok Ads
+  - Shopify & E-commerce
+  - CRM & POS Systems
+  - API & Webhook Integrations
+  - Business Process Automation
+  - Linux & Infrastructure
+
+experience:
+  years: 5+
+  projects: 100+
+
+currently_building:
+  - AI-powered automation systems
+  - E-commerce infrastructure
+  - Business dashboards
+  - CRM & operational tools
+  - SaaS-style platforms
 ```
 
-Results-driven IT & Digital Marketing Executive specializing in SEO, paid advertising, AI automation, and scalable system development. I design and deploy high-performance digital ecosystems combining marketing, automation, and secure infrastructure — with hands-on Python and JavaScript development.
-
-- 🛍️ **Head of IT & Online Executive @ Universes** — premium e-commerce brand, BDT 10+ lakh/month revenue on under BDT 1 lakh ad spend
-- 🚀 **Founder, MiBrand Agency** (2023–Present) — SEO + paid ads + automation, serving clients internationally
-- 🤖 Building **SaaS-level AI automation systems** processing 1,000+ workflows/sec
-- 💻 Architecting end-to-end **CRM pipelines**, POS systems, and investment platforms
-- 🔐 Linux server administration & cybersecurity practices baked into every build
-- 📱 Also into mobile device repair/flashing on the side
-
 ---
 
-### 💼 How I Work
+## 🚀 What I Do
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**📈 Marketing & Growth**
-- SEO, Local SEO & Google Business ranking
-- Meta, Google & TikTok paid advertising
-- Shopify store growth & conversion optimization
-- Analytics, tracking & performance reporting
+### 📈 Growth & Marketing
+
+* Technical SEO
+* Local SEO & Google Business
+* Meta Ads
+* Google Ads
+* TikTok Ads
+* Shopify Growth
+* Conversion Optimization
+* Analytics & Tracking
+* Marketing Automation
 
 </td>
+
 <td width="50%" valign="top">
 
-**⚙️ Development & Automation**
-- AI automation & custom workflow systems
-- Web apps, POS, dashboards & admin panels
-- API, webhook & CRM integrations
-- Telegram / WhatsApp bots & scripting
+### ⚙️ Technology & Automation
+
+* AI Automation
+* Custom Web Applications
+* CRM & POS Systems
+* API Integrations
+* Webhooks
+* Telegram / WhatsApp Automation
+* Admin Dashboards
+* Business Process Automation
+* Linux Server Management
 
 </td>
 </tr>
@@ -68,189 +119,266 @@ Results-driven IT & Digital Marketing Executive specializing in SEO, paid advert
 
 ---
 
-### 📊 Impact & Achievements
+## 💼 Professional Experience
+
+### 🏢 Universes
+
+**Head of IT & Online Executive**
+
+Leading technology, e-commerce operations, digital marketing infrastructure and automation for a growing premium fashion e-commerce business.
+
+**Areas of responsibility**
+
+* E-commerce technology & Shopify operations
+* Meta advertising & performance optimization
+* SEO and organic growth
+* CRM and order management
+* Courier & delivery workflow integration
+* SMS automation
+* Internal business systems
+* Analytics and tracking
+* IT infrastructure & security
+
+**Business impact**
+
+> Helped build and operate systems supporting **BDT 10+ lakh monthly revenue** while maintaining advertising efficiency with campaigns operated around **BDT 1 lakh or less in monthly ad spend**.
+
+---
+
+### 🚀 MiBrand Agency
+
+**Founder · 2023 — Present**
+
+A digital growth and technology agency focused on helping businesses acquire customers, automate operations and build scalable digital infrastructure.
+
+**Services**
+
+`SEO` · `Local SEO` · `Meta Ads` · `Google Ads` · `Shopify` · `AI Automation` · `CRM` · `Web Development`
+
+---
+
+## 🧠 My Technology Philosophy
+
+I don't believe in building technology just because it looks impressive.
+
+I focus on systems that:
+
+```text
+Identify the problem
+       ↓
+Remove unnecessary manual work
+       ↓
+Connect the right tools
+       ↓
+Automate repetitive processes
+       ↓
+Track the result
+       ↓
+Continuously optimize
+```
+
+The goal is simple:
+
+### **Less manual work. Better data. Faster decisions. More scalable operations.**
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-| Metric | Result |
-|---|---|
-| 💰 Monthly Revenue Generated | **10+ Lakh BDT** on under 1 Lakh ad spend |
-| 📁 Client Projects Completed | **100+** at 85%+ retention |
-| 📌 SEO Retainers Closed | **First year** of agency launch |
-| ⚡ Automation Throughput | **1,000+ processes/sec** |
-| 🌍 Markets Served | **Multiple** international markets |
-| 🔧 Manual Workload Reduced | **Significant %** via intelligent automation |
+### 🤖 AI & Automation
+
+<img src="https://skillicons.dev/icons?i=python,nodejs,typescript,javascript" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+
+### 💻 Development
+
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,nextjs,nodejs,react" />
+
+### 🗄️ Databases & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=postgresql,redis,docker,linux,nginx" />
+
+### 🛍️ E-commerce & Marketing
+
+<img src="https://skillicons.dev/icons?i=shopify" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Meta%20Ads-1877F2?style=for-the-badge&logo=meta&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white" />
+<img src="https://img.shields.io/badge/TikTok%20Ads-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+<img src="https://img.shields.io/badge/SEO-34A853?style=for-the-badge&logo=googlesearchconsole&logoColor=white" />
 
 </div>
 
 ---
 
-### 🧰 Tech Stack
+## 🔥 Selected Projects
 
-<div align="center">
+### 🏦 Investment Platform
 
-**AI Tools**
-<br/>
-![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white)
+A complete full-stack financial platform featuring user accounts, admin management, deposits, withdrawals, investment plans, referrals and in-platform purchasing.
 
-**Marketing**
-<br/>
-![Meta Ads](https://img.shields.io/badge/Meta_Ads-1877F2?style=for-the-badge&logo=meta&logoColor=white)
-![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
-![TikTok Ads](https://img.shields.io/badge/TikTok_Ads-000000?style=for-the-badge&logo=tiktok&logoColor=white)
-![SEO](https://img.shields.io/badge/SEO-34A853?style=for-the-badge&logo=googlesearchconsole&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+**Stack**
 
-**Development**
-<br/>
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-**Infra & Automation**
-<br/>
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
+`Next.js` `Node.js` `PostgreSQL` `Authentication` `Security` `REST APIs`
 
 ---
 
-### 🚀 Key Projects
+### 📦 AI-Assisted Inventory & Stock Management
 
-<table>
-<tr>
-<td width="50%" valign="top">
+Operational inventory platform designed for real-time stock visibility and order management.
 
-**🏦 Complete Investment Platform**
-<br/>
-Production-ready platform — full backend + frontend, hardened security, user & admin panels, deposits/withdrawals, tiered plans, referrals, in-platform purchases
-<br/>
-`Next.js` `Node.js` `PostgreSQL` `Security` `Claude Code`
+**Features**
 
-</td>
-<td width="50%" valign="top">
+* Multi-warehouse inventory
+* Stock tracking
+* Order lifecycle management
+* Delivery assignment
+* Courier integration
+* Operations dashboard
 
-**📦 AI-Built Stock Management System**
-<br/>
-Real-time stock tracking, multi-warehouse inventory, order lifecycle, delivery assignment & courier integration with live ops dashboard
-<br/>
-`Next.js` `Node.js` `PostgreSQL` `AI Coding`
+**Stack**
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+`Next.js` `Node.js` `PostgreSQL` `AI-assisted Development`
 
-**🛒 Custom POS & CRM System**
-<br/>
-Full-stack POS + CRM with automation, refund/exchange workflows, and SMS notification pipelines for retail ops
-<br/>
-`Python` `PostgreSQL` `SMS API` `Full-Stack`
+---
 
-</td>
-<td width="50%" valign="top">
+### 🛒 Custom POS + CRM
 
-**🔔 Shopify SMS Webhook Automation**
-<br/>
-Real-time API integration — automated order confirmation, shipping & delivery notifications via SMS pipeline
-<br/>
-`Shopify API` `Webhooks` `Node.js`
+Full-stack business management system combining POS operations with CRM and automated customer communication.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+**Features**
 
-**🏬 Advanced Shopify E-commerce Sites**
-<br/>
-UX/SEO/conversion-optimized storefronts for premium brands — BDT 10+ lakh/mo on under 1 lakh ad spend
-<br/>
-`Shopify` `Liquid` `SEO` `Meta Ads` `CRO`
+* Order management
+* Customer profiles
+* Refund & exchange workflows
+* SMS notifications
+* Operational dashboards
+* Automated workflows
 
-</td>
-<td width="50%" valign="top">
+**Stack**
 
-**⭐ Custom Review Management Platform**
-<br/>
-Multi-channel feedback aggregation & reputation management — flags issues, automates response workflows
-<br/>
-`Next.js` `Node.js` `API Integration`
+`Python` `PostgreSQL` `SMS APIs`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+---
 
-**🤖 Telegram Automation Bots**
-<br/>
-OTP verification systems, proxy rotation tools, and admin dashboard bots at scale
-<br/>
+### 🔔 Shopify Order Automation
+
+Webhook-driven automation connecting Shopify orders with external notification and operational systems.
+
+**Workflow**
+
+```text
+Shopify Order
+      ↓
+Webhook
+      ↓
+Backend Processing
+      ↓
+Customer / Internal Notification
+      ↓
+Order Status Automation
+```
+
+**Stack**
+
+`Shopify API` `Webhooks` `Node.js` `REST APIs`
+
+---
+
+### ⭐ Review & Reputation Platform
+
+Custom review management platform designed to collect customer feedback, identify negative experiences and automate response workflows.
+
+**Stack**
+
+`Next.js` `Node.js` `APIs` `Automation`
+
+---
+
+### 🤖 Telegram Automation Systems
+
+Python-based Telegram automation systems with verification workflows, administrative controls, Redis-backed processing and Linux deployment.
+
+**Stack**
+
 `Python` `Telegram API` `Redis` `Linux`
 
-</td>
-<td width="50%" valign="top">
+---
 
-**🎓 MiBrand Academy**
-<br/>
-SEO & freelancing training platform — courses, progress tracking, certificates, structured learning paths
-<br/>
-`Next.js` `TypeScript` `Stripe` `E-learning`
+### 🍽️ MiBx FastLane
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+QR-based restaurant ordering concept designed to reduce manual ordering and streamline restaurant operations.
 
-**🍽️ MiBx FastLane**
-<br/>
-QR-based restaurant automation — scan, browse, order & pay with zero staff intervention
-<br/>
-`Next.js` `QR API` `Node.js` `SaaS`
+```text
+Scan QR
+   ↓
+Browse Menu
+   ↓
+Place Order
+   ↓
+Payment
+   ↓
+Kitchen / Restaurant Workflow
+```
 
-</td>
-<td width="50%" valign="top">
+**Stack**
 
-**⚡ Large-Scale AI Automation Systems**
-<br/>
-Secure architecture handling 1,000+ workflow processes/sec at enterprise throughput
-<br/>
-`Python` `AI APIs` `Redis` `Docker`
-
-</td>
-</tr>
-</table>
+`Next.js` `Node.js` `QR` `APIs` `SaaS`
 
 ---
 
-### 🎓 Education & Certifications
-
-- 🏅 **HubSpot SEO Certification** — HubSpot Academy
-- 🏅 **SEMrush SEO Certification** — SEMrush
-- 📜 **Freelancing from Home** — 10 Minute School
-- 📜 **Data Entry (Beginner)** — 10 Minute School
-- 🎓 High School Diploma — Begum Rasul Jan Abdul Bari High School
-
-**Languages:** Bengali (Native) · English (Fluent) · Hindi (Conversational)
-
----
-
-### 📊 GitHub Stats
+## 📊 Experience Snapshot
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=moinulislam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" width="48%"/>
+| Area                       |        Experience       |
+| :------------------------- | :---------------------: |
+| 💻 IT & Technology         |       **5+ Years**      |
+| 📁 Projects                |         **100+**        |
+| 🛍️ E-commerce             | **Hands-on Operations** |
+| 📈 SEO & Digital Marketing |       **5+ Years**      |
+| 🤖 Automation              |       **Advanced**      |
+| 🧩 API Integrations        |       **Advanced**      |
+| 🐧 Linux & Infrastructure  |       **Hands-on**      |
+| 🌍 International Clients   |         **Yes**         |
+
+</div>
+
+---
+
+## 📚 Certifications & Education
+
+* 🏅 **HubSpot SEO Certification**
+* 🏅 **SEMrush SEO Certification**
+* 📜 **Freelancing from Home — 10 Minute School**
+* 📜 **Data Entry — 10 Minute School**
+* 🎓 **High School Diploma — Begum Rasul Jan Abdul Bari High School**
+
+### Languages
+
+`Bengali — Native` · `English — Fluent` · `Hindi — Conversational`
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=moinulislam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&count_private=true" width="48%"/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moinulislam&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF" width="40%"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=moinulislam&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF" width="60%"/>
 
@@ -262,20 +390,59 @@ Secure architecture handling 1,000+ workflow processes/sec at enterprise through
 
 ---
 
+## 🎯 Currently Exploring
+
+```text
+AI Agents
+AI-powered Business Automation
+SaaS Architecture
+E-commerce Infrastructure
+Advanced CRM Systems
+LLM Integrations
+Workflow Orchestration
+Business Intelligence
+```
+
+---
+
+## 🌐 Find Me Online
+
 <div align="center">
 
-### 📫 Let's Build Something Together
+<a href="https://moinulislam.pro">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-moinulislam.pro-00D9FF?style=for-the-badge&labelColor=0D1117"/>
+</a>
 
-Have a project in mind, need SEO strategy, or want to automate your operations? I usually reply within minutes.
+<a href="https://mibrand.agency">
+<img src="https://img.shields.io/badge/🚀%20Agency-MiBrand-8B0000?style=for-the-badge&labelColor=0D1117"/>
+</a>
 
-[![WhatsApp](https://img.shields.io/badge/Chat_on_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801605956421?text=Hi%20Moinul%2C%20I%20found%20your%20GitHub%20and%20would%20like%20to%20discuss%20a%20project.)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/moinul-islam-bappi)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://moinulislam.pro)
-[![Agency](https://img.shields.io/badge/-MiBrand_Agency-8B0000?style=flat-square&logo=shopify&logoColor=white)](https://mibrand.agency)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mib.bappi360@gmail.com)
+<a href="https://linkedin.com/in/moinul-islam-bappi">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-*Available for new projects & collaborations*
+<a href="https://wa.me/8801605956421?text=Hi%20Moinul%2C%20I%20found%20your%20GitHub%20and%20would%20like%20to%20discuss%20a%20project.">
+<img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,100:0A0A0A&height=100&section=footer" width="100%"/>
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Let's Build Something Useful
+
+**Have a business problem that can be solved with technology, automation or digital growth?**
+
+Let's turn it into a system.
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=moinulislam&label=Profile%20Views&color=00D9FF&style=for-the-badge"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:0A0A0A&height=120&section=footer" width="100%"/>
 
 </div>
