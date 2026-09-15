@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070707,50:111827,100:0A0A0A&height=220&section=header&text=Moinul%20Islam%20Bappi&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=IT%20Executive%20%E2%80%A2%20E-commerce%20Automation%20%E2%80%A2%20SEO%20%E2%80%A2%20AI%20Systems&descAlignY=56&descSize=19" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070707,50:111827,100:0A0A0A&height=220&section=header&text=Moinul%20Islam%20Bappi&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=E-Commerce%20Automation%20Engineer%20%E2%80%A2%20AI%20Systems%20Specialist&descAlignY=56&descSize=19" width="100%"/>
 
-<h2>IT Executive building digital systems that turn manual operations into scalable workflows.</h2>
+<h2>Building e-commerce systems, AI workflows & automation that turn operational bottlenecks into scalable workflows.</h2>
 
 <p>
   <a href="https://moinulislam.pro"><img src="https://img.shields.io/badge/Portfolio-MoinulIslam.pro-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a>
@@ -12,251 +12,194 @@
   <a href="https://www.moinulislam.pro/Moinul-Islam-Bappi-CV.pdf"><img src="https://img.shields.io/badge/CV-Download-7C3AED?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
 </p>
 
+<p>
+  <img src="https://komarev.com/ghpvc/?username=mibx-69&label=Profile%20Views&style=for-the-badge" />
+</p>
+
 </div>
 
 ---
 
 ## 👋 About Moinul Islam Bappi
 
-Moinul Islam Bappi is an **IT & E-commerce Operations professional** focused on building practical technology systems that improve revenue, reduce repetitive work, and make business operations easier to manage.
+**Moinul Islam Bappi** is an **E-Commerce Automation Engineer & AI Systems Specialist** with 4+ years of hands-on experience building custom business systems, AI/LLM workflows, API integrations, scalable Shopify infrastructure, and order & fulfillment automation.
 
-The work sits at the intersection of **IT operations, e-commerce, automation, digital marketing, and full-stack product development** — turning real business pain points into working internal platforms, dashboards, integrations, and automated workflows.
+The work focuses on converting operational bottlenecks into reliable technical systems — combining **Shopify, full-stack development, APIs, webhooks, workflow automation, AI/LLM systems, databases, infrastructure, security, and growth technology**.
 
 ```yaml
 name: Moinul Islam Bappi
-based_in: Dhaka, Bangladesh
-current_role: Head of IT & Online Executive @ Universes
-agency: Founder, MiBrand Agency
-experience: 5+ years
+location: Dhaka, Bangladesh
+current_role: Head of IT & E-Commerce Automation Lead @ Universes
+additional_role: Lead Automation & Systems Engineer @ MiBx Team
+consulting: E-Commerce Systems & Automation Consultant @ MiBrand & Independent
+experience: 4+ years
 projects: 100+ delivered projects
-core_focus:
-  - E-commerce Operations
-  - Shopify & Store Systems
-  - AI Automation
-  - SEO & Performance Marketing
-  - CRM / POS / ERP Workflows
+markets: 5+ international markets
+client_retention: 85%+
+primary_focus:
+  - Shopify Operations & Automation
+  - AI / LLM Workflow Automation
   - API & Webhook Integrations
+  - Order & Fulfillment Engineering
+  - Full-Stack Business Systems
+  - COD Fraud Prevention
   - Reporting & Business Intelligence
-  - Linux / Infrastructure / Security
+  - Infrastructure & Security
 ```
 
-### What stands out
+### What I build
 
-- 🧠 **Business-first technology:** systems are built around measurable operational problems, not technology for its own sake.
-- ⚙️ **Automation:** manual order, dispatch, reporting, notification, delivery, return, and customer workflows transformed into structured digital processes.
-- 📊 **Performance:** combines technology with SEO, analytics, paid ads, and e-commerce growth.
-- 🛍️ **E-commerce leadership:** hands-on experience operating and improving digital commerce systems.
-- 🔐 **Infrastructure mindset:** security, permissions, APIs, server-side logic, and reliable workflows are treated as part of the product.
+- ⚙️ **E-commerce automation systems** that eliminate repetitive operational work.
+- 🛍️ **Shopify infrastructure** connecting storefronts, order management, courier APIs and customer workflows.
+- 🤖 **AI / LLM workflows** using Gemini, Claude and OpenAI APIs for customer and operational automation.
+- 🔗 **API & webhook integrations** for real-time business events and system synchronization.
+- 📊 **Operational dashboards & reporting** for live KPIs, revenue and fulfillment visibility.
+- 🔐 **Secure backend infrastructure** using OAuth 2.0, JWT, RBAC, RLS, HMAC verification, Docker and Linux/VPS environments.
 
 ---
 
 ## 💼 Professional Experience
 
-### 🏢 Head of IT & Online Executive — Universes
-**E-commerce / Technology / Digital Operations**
+### 🏢 Head of IT & E-Commerce Automation Lead — Universes
+**Sep 2025 – Present · Dhaka, Bangladesh**
 
-Leading the technical and digital side of an e-commerce business, including online operations, automation, reporting, store systems, performance marketing coordination, and internal tooling.
+Own end-to-end technology architecture, Shopify storefront management, and operational automation for multi-channel e-commerce operations.
 
 **Selected impact:**
 
-- Helped drive **BDT 10+ lakh monthly revenue** on **under BDT 1 lakh ad spend** through e-commerce, marketing, and operational optimization.
-- Built internal systems that reduce repetitive manual work across order processing, dispatch, delivery, returns, reporting, and customer communication.
-- Designed live **daily and monthly KPI reporting** so management can monitor business performance without relying on manually prepared reports.
-- Built and improved Shopify-connected workflows for operational teams and warehouse users.
+- Engineered custom **Shopify–Pathao API/webhook integration**, automating processing for **700+ monthly orders** and eliminating manual dispatch entries.
+- Reduced internal operational workload by **45%** through automated reporting, COD fraud-risk tagging and customer SMS notifications.
+- Managed technical tracking and campaign setup across **Meta, Google and TikTok**, contributing to **BDT 10+ lakh monthly revenue on under BDT 1 lakh ad spend**.
+- Designed mobile-first Shopify Liquid storefront experiences focused on UX, technical SEO, Ajax cart interactions and conversion.
 
-### 🚀 Founder — MiBrand Agency
-**2023 – Present**
+### ⚙️ Lead Automation & Systems Engineer — MiBx Team
+**Jan 2025 – Present**
 
-MiBrand Agency focuses on **SEO, paid advertising, Shopify growth, automation, and digital systems** for businesses and international clients.
+Architect and maintain production automation systems for customer support, order tracking and internal workflows.
 
-**Core services:**
+- Build automation using **n8n, Python, JavaScript and REST APIs**.
+- Deploy **Gemini and Claude AI/LLM workflows** plus Telegram/WhatsApp bots for real-time customer queries and operational alerts.
+- Manage **Linux/VPS, PostgreSQL/Supabase, Docker** and security controls including OAuth 2.0, JWT, HMAC and RLS.
 
-- SEO & Local SEO / Google Business optimization
-- Meta, Google & TikTok advertising
-- Shopify development and CRO
-- AI-assisted automation and business workflows
-- CRM, POS, dashboards, APIs and integrations
+### 🚀 E-Commerce Systems & Automation Consultant — MiBrand & Independent
+**Jan 2021 – Present**
 
-### 🧩 Earlier Technical & Digital Work
-
-Hands-on work across web development, automation, Linux environments, marketing technology, customer workflows, APIs, bots, analytics and business systems — building practical solutions from requirements through deployment.
-
----
-
-## 🚀 Flagship Projects
-
-### 📦 MiBx Dispatch — E-commerce Dispatch & Operations Platform
-**Shopify → Fraud Intelligence → Bulk Dispatch → Courier Tracking → SMS → Returns → Finance → Reporting**
-
-A production-focused logistics and operations platform created around real e-commerce dispatch problems.
-
-**Impact:**
-- Solved **15+ operational problems** inside one integrated system.
-- Reduced manual/analog workload by approximately **45%** through automation.
-- Replaced repetitive handling of roughly **50–100 daily orders** with bulk operational workflows.
-- Supports **1,000+ order processing within seconds** for bulk dispatch workflows.
-- Automated delivery / return status synchronization, customer SMS, fraud intelligence, reporting and financial reconciliation.
-- Built specifically for both **desktop operations and warehouse/mobile workflows**.
-
-**Stack:** `Next.js` `TypeScript` `Supabase` `PostgreSQL` `Redis` `QStash` `Tailwind CSS` `Shopify API` `Courier APIs`
-
-[→ View MiBx Dispatch](https://github.com/MiBx-69/MIBx-Dispatch)
-
-### 🏦 Investment Platform
-A full-stack investment platform with user and admin panels, deposits and withdrawals, tiered plans, referrals, in-platform purchases, and security-focused architecture.
-
-**Stack:** `Next.js` `Node.js` `PostgreSQL` `Security`
-
-### 🛒 POS + CRM System
-Custom retail operations platform combining point-of-sale, customer management, refunds/exchanges, SMS automation and operational workflows.
-
-**Stack:** `Python` `PostgreSQL` `SMS API` `Full-Stack`
-
-### 📦 Stock & Inventory Management
-Real-time stock visibility, multi-warehouse inventory, order lifecycle management, delivery assignment, courier integrations and live operational dashboards.
-
-**Stack:** `Next.js` `Node.js` `PostgreSQL`
-
-### 🔔 Shopify Notification Automation
-Real-time Shopify webhook and API workflows for automated order confirmation, shipping, delivery and customer notifications.
-
-**Stack:** `Shopify API` `Webhooks` `Node.js`
-
-### ⭐ Review Management Platform
-Multi-channel customer feedback aggregation and reputation workflow system designed to identify issues and automate responses.
-
-**Stack:** `Next.js` `Node.js` `API Integration`
-
-### 🎓 MiBrand Academy
-SEO and freelancing learning platform with courses, progress tracking, certificates and structured learning paths.
-
-**Stack:** `Next.js` `TypeScript` `Stripe`
-
-### 🍽️ MiBx FastLane
-QR-based restaurant ordering experience designed around fast, low-friction customer ordering and payment workflows.
-
-**Stack:** `Next.js` `Node.js` `QR API`
-
-### 🤖 Automation & Bot Systems
-Telegram automation, OTP workflows, admin dashboards, API integrations, AI-assisted process automation and scalable background jobs.
-
-**Stack:** `Python` `Redis` `Linux` `AI APIs` `Docker`
+- Delivered **100+ technical, e-commerce and automation projects** for international clients across **5+ markets**.
+- Maintained an **85%+ client retention rate**.
+- Built custom automations that reduced manual operational workloads by **40%** using n8n, AI APIs and webhook pipelines.
+- Architected COD fraud-screening engines, transactional backends and multi-courier fulfillment systems.
 
 ---
 
-## 📈 Selected Results
+## 🚀 Featured Projects
+
+### 📦 [MiBx Dispatch](https://github.com/MiBx-69/MIBx-Dispatch) — Shopify to Courier Automation
+
+A production e-commerce dispatch and operations platform connecting **Shopify → Fraud Intelligence → Bulk Dispatch → Courier Tracking → SMS → Returns → Finance → Reporting**.
+
+**Problem:** Manual entry and processing of 50–100 daily orders created significant dispatch bottlenecks.
+
+**Solution & impact:**
+
+- Engineered bulk dispatch capable of processing **1,000+ orders within seconds**.
+- Automated Shopify and Pathao webhook-based order status synchronization.
+- Added automated SMS dispatch alerts, COD risk scoring and real-time revenue analytics.
+- Reduced operational workload by approximately **45%**.
+
+**Stack:** `Next.js` `TypeScript` `Supabase` `PostgreSQL` `Shopify GraphQL/REST` `Pathao API/Webhooks` `Google Drive API` `Gemini AI`
+
+### 🛡️ [Shopify Fraud Shield](https://github.com/MiBx-69/shopify-fraudcheck-api) — Automated COD Risk Engine
+
+Automated **Cash-On-Delivery risk assessment** using historical customer orders and courier return data to identify risk tiers and apply fulfillment holds.
+
+**Stack:** `Next.js` `TypeScript` `Shopify API` `Webhooks` `HMAC SHA-256`
+
+### 🛍️ [Universes Raw Shopify Theme](https://github.com/MiBx-69/universesraw-theme) — Custom Storefront
+
+Mobile-first Shopify storefront engineered around dynamic commerce experiences, custom cart interactions, performance optimization, UX and technical SEO.
+
+**Stack:** `Shopify Liquid` `JavaScript` `Ajax Cart` `Performance Optimization` `CRO`
+
+### 🚚 Shopify Multi-Courier Fulfillment Platform
+
+Fulfillment infrastructure supporting **REDX, Pathao and Steadfast** with real-time status synchronization, multi-tenant authorization, RLS, encrypted credentials and automated financial reconciliation.
+
+**Stack:** `Next.js` `TypeScript` `Supabase` `PostgreSQL` `Shopify GraphQL` `Webhooks`
+
+### 💳 SmartX — Secure Full-Stack Transactional Backend
+
+Secure transactional backend architecture featuring ledger-based money handling, authentication, role-based access, idempotent jobs and audit logging.
+
+**Stack:** `React` `Node.js` `Express` `Prisma` `PostgreSQL` `Redis` `Docker`
+
+---
+
+## 📊 Selected Impact
 
 <div align="center">
 
-| Area | Result |
+| Metric | Result |
 |---|---:|
-| Monthly e-commerce revenue influenced | **BDT 10+ lakh** |
-| Monthly ad spend referenced | **< BDT 1 lakh** |
-| Client / project delivery | **100+ projects** |
-| Client retention | **85%+** |
-| MiBx Dispatch automation improvements | **15+ operational problems** |
-| MiBx Dispatch manual workload reduction | **~45%** |
-| MiBx Dispatch bulk dispatch capacity | **1,000+ orders in seconds** |
-| AI / workflow automation | **1,000+ processes/sec** |
+| 💼 Professional experience | **4+ years** |
+| 📁 Projects delivered | **100+** |
+| 🌍 International markets | **5+** |
+| 🤝 Client retention | **85%+** |
+| ⚡ Manual workload reduction | **Up to 45%** |
+| 📦 Orders automated at Universes | **700+ monthly** |
+| 🚀 Bulk dispatch capability | **1,000+ orders within seconds** |
+| 💰 Monthly revenue | **BDT 10+ lakh** |
+| 📣 Monthly ad spend | **Under BDT 1 lakh** |
 
 </div>
 
 ---
 
-## 🧰 Technology & Capabilities
+## 🧰 Technical Skills
 
-<div align="center">
+### 🤖 Automation & AI
+`n8n` · `LLM Workflows` · `Gemini` · `Claude` · `OpenAI APIs` · `AI Agents` · `Webhooks` · `Telegram Bots` · `WhatsApp Bots` · `Prompt Engineering`
 
-### Engineering
+### 🛍️ E-Commerce Systems
+`Shopify` · `Shopify Liquid` · `Shopify Admin API` · `GraphQL` · `REST APIs` · `Webhooks` · `Metafields` · `Order Management` · `CRM` · `CRO`
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+### 💻 Programming & Frameworks
+`JavaScript` · `TypeScript` · `Python` · `Next.js` · `React` · `Node.js` · `Express` · `HTML5` · `CSS3`
 
-### Automation & Infrastructure
+### 🗄️ Backend, Data & Security
+`PostgreSQL` · `Supabase` · `Prisma` · `Redis` · `REST APIs` · `OAuth 2.0` · `JWT` · `RBAC` · `RLS` · `HMAC` · `Docker` · `Linux/VPS`
 
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-
-### E-commerce & Growth
-
-![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
-![Meta Ads](https://img.shields.io/badge/Meta%20Ads-1877F2?style=for-the-badge&logo=meta&logoColor=white)
-![Google Ads](https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
-![SEO](https://img.shields.io/badge/SEO-34A853?style=for-the-badge&logo=googlesearchconsole&logoColor=white)
-
-### AI
-
-![Claude](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-
-</div>
+### 📈 Growth Technology
+`Meta Pixel` · `Conversions API (CAPI)` · `Google Tag Manager` · `Google Analytics 4` · `Technical SEO`
 
 ---
 
-## 🎯 Core Strengths
+## 🎓 Certifications
 
-<table>
-<tr>
-<td width="50%" valign="top">
+- 🏅 **AI Prompt Engineering** — AWS
+- 🏅 **Claude AI Fluency 101** — Anthropic
+- 🏅 **Google IT Support Professional Certificate** — Google
+- 🏅 **Meta Certified Digital Marketing Associate** — Meta
+- 🏅 **HubSpot SEO & Digital Marketing** — HubSpot
 
-**IT & Operations**
+## 🎓 Education & Languages
 
-- Internal systems & workflow design
-- E-commerce operations
-- Reporting / KPI dashboards
-- API and webhook integrations
-- Linux administration
-- Security-aware architecture
-
-</td>
-<td width="50%" valign="top">
-
-**Growth & Digital**
-
-- SEO / Local SEO
-- Performance marketing
-- Shopify growth
-- Analytics & conversion optimization
-- Customer communication systems
-- Automation-led efficiency
-
-</td>
-</tr>
-</table>
-
----
-
-## 🎓 Certifications & Education
-
-- **HubSpot SEO Certification** — HubSpot Academy
-- **SEMrush SEO Certification** — SEMrush
-- **Freelancing from Home** — 10 Minute School
-- **Data Entry (Beginner)** — 10 Minute School
-- **High School Diploma** — Begum Rasul Jan Abdul Bari High School
+**High School Diploma** — Begum Rasul Jan Abdul Bari High School
 
 **Languages:** Bengali (Native) · English (Fluent) · Hindi (Conversational)
 
 ---
 
-## 🌐 Find Moinul Online
+## 🌐 Connect With Moinul
 
 <div align="center">
 
-| Platform | Link |
+| Platform | Contact |
 |---|---|
 | 🌐 Portfolio | [moinulislam.pro](https://moinulislam.pro) |
 | 💼 LinkedIn | [linkedin.com/in/moinul-islam-bappi](https://linkedin.com/in/moinul-islam-bappi) |
-| 🏢 MiBrand Agency | [mibrand.agency](https://mibrand.agency) |
 | 💻 GitHub | [github.com/MiBx-69](https://github.com/MiBx-69) |
-| 📄 CV | [Download CV](https://www.moinulislam.pro/Moinul-Islam-Bappi-CV.pdf) |
+| 🏢 MiBrand | [mibrand.agency](https://mibrand.agency) |
+| 📄 CV | [Download Moinul Islam Bappi CV](https://www.moinulislam.pro/Moinul-Islam-Bappi-CV.pdf) |
 | 💬 WhatsApp | [+880 1605-956421](https://wa.me/8801605956421) |
 | ✉️ Email | [mib.bappi360@gmail.com](mailto:mib.bappi360@gmail.com) |
 
@@ -268,12 +211,12 @@ Telegram automation, OTP workflows, admin dashboards, API integrations, AI-assis
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=moinulislam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=58A6FF" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moinulislam&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFFFFF" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mibx-69&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=58A6FF" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mibx-69&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFFFFF" width="40%"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=moinulislam&theme=tokyonight&hide_border=true&background=0D1117" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mibx-69&theme=tokyonight&hide_border=true&background=0D1117" width="60%"/>
 
 </div>
 
@@ -281,19 +224,19 @@ Telegram automation, OTP workflows, admin dashboards, API integrations, AI-assis
 
 <div align="center">
 
-### 🤝 Open to meaningful projects, collaborations & technology opportunities
+### 🤝 Open to meaningful technology opportunities & collaborations
 
-**IT Operations • E-commerce Systems • Automation • AI Workflows • SEO • Shopify • Digital Growth**
+**E-Commerce Automation • AI / LLM Systems • Shopify • API Integration • Full-Stack Development • IT Operations**
 
 <br/>
 
-[![WhatsApp](https://img.shields.io/badge/Start_a_Conversation-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801605956421?text=Hi%20Moinul%2C%20I%20found%20your%20GitHub%20profile%20and%20would%20like%20to%20connect.)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/moinul-islam-bappi)
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://moinulislam.pro)
+[![Start a Conversation](https://img.shields.io/badge/Start_a_Conversation-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801605956421?text=Hi%20Moinul%2C%20I%20found%20your%20GitHub%20profile%20and%20would%20like%20to%20connect.)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/moinul-islam-bappi)
+[![View Portfolio](https://img.shields.io/badge/View_Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://moinulislam.pro)
 
 <br/><br/>
 
-<sub>Building practical technology systems that make businesses faster, smarter and easier to operate.</sub>
+<sub>Engineering practical systems that make e-commerce operations faster, smarter and more scalable.</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:070707,100:0A0A0A&height=110&section=footer" width="100%"/>
 
